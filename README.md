@@ -18,10 +18,10 @@ To run this project locally, follow these steps:
    ```
 
 2.  Set up API keys for Gemini 2.0 Flash LLM and Pinecone:
-   ```
-   GEMINI_API_KEY=your_api_key
-   PINECONE_API_KEY=your_api_key
-   ```
+    ```
+    GEMINI_API_KEY=your_api_key
+    PINECONE_API_KEY=your_api_key
+    ```
 3. Set up Pinecone account:
    You can use your google account for this purpose.
 
